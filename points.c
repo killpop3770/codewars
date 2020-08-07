@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <stdlib.h>
 
 int points(char* games[], int len) 
